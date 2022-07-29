@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning - LUA
 - 📫 How to reach me: Thrasherrr#9224
 
+Development & Scripts: https://discord.gg/cmWRvTHJBN
 Diversion RP v1: https://discord.gg/YXyDynvZUW
 
 #### Github Stats
