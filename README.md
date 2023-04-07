@@ -4,5 +4,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xthrasherrr&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
 
 # Discords:
-- xT Development: https://discord.gg/cmWRvTHJBN
-- Redline Studios: https://discord.gg/RCU9XEvnsE
+- xT Development: https://dsc.gg/xtdev
+- Diversion RP: https://dsc.gg/diversionrp
+- Redline Studios: https://dsc.gg/redlinestudios
