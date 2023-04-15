@@ -5,5 +5,4 @@
 
 # Discords:
 - xT Development: https://dsc.gg/xtdev
-- Diversion RP: https://dsc.gg/diversionrp
 - Redline Studios: https://dsc.gg/redlinestudios
