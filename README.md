@@ -1,8 +1,13 @@
-<a href='https://ko-fi.com/W7W2DTUIV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-# Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=xthrasherrr&show_icons=true&theme=gotham" alt="github stats" width="50%" align="center"/>
 
-# Discords:
-- xT Development: https://dsc.gg/xtdev
-- Redline Studios: https://dsc.gg/redlinestudios
+<p align="center">
+  <a href="https://ko-fi.com/W7W2DTUIV"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi4.png?v=3" height="50" width="210" alt="aveek.saha" /></a>
+  <br>
+  <br>
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=xthrasherrr&show_icons=true&theme=gotham">
+  <br>
+  <br>
+  xT Development: https://dsc.gg/xtdev
+  <br>
+  Redline Studios: https://dsc.gg/redlinestudios
+</p
