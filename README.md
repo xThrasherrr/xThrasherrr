@@ -5,9 +5,4 @@
   <br>
   <br>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=xthrasherrr&show_icons=true&theme=gotham">
-  <br>
-  <br>
-  xT Development: https://dsc.gg/xtdev
-  <br>
-  Redline Studios: https://dsc.gg/redlinestudios
 </p
